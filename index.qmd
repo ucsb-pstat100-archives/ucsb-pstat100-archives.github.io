@@ -1,0 +1,66 @@
+::: {.callout-important}
+## **IMPORTANT**
+
+::: {style="font-size:28px"}
+This is an **ARCHIVED** version of the course, offered in Spring 2024. For the current iteration of the course, please navigate to [ucsb-pstat100.github.io](ucsb-pstat100.github.io).
+:::
+
+:::
+
+\
+
+:::{style="text-align:center"}
+
+
+[**PSTAT 100**]{style="font-size:3rem"} \
+[Data Science Concepts and Analysis]{style="font-size:2rem"} \
+[Spring 2024; Instructor: Ethan P. Marzban]{style="font-size:2rem"}
+
+![](Images/Logos_Icons/hex_second_pass.svg){width="50%"}
+
+:::
+
+Welcome to the official course site for PSTAT 100, Spring 2024 with instructor Ethan P. Marzban. Here, you will find all relevant course material including lecture material, homework, labs, projects, and additional resources.
+
+<style>
+.bg-primary {
+    background-color: #325d88 !important;
+}
+
+.card-header {
+    background-color: #98ceed;
+    font-weight: bold;
+}
+
+p.card-text {
+    color: white;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ul>li {
+  padding-left: 10px;
+  padding-right: 25px;
+}
+</style>
+
+<div class="card text-white bg-primary mb-3" style="max-width: 50rem;">
+<div class="card-header">Quick Navigation</div>
+<p class="card-text">
+
+-   For the syllabus and important course policies; navigate to the [Policies](https://ucsb-pstat100.github.io/Pages/policies.html) page
+
+-   For a calendar of all weekly course happenings (including lectures, sections, and Office Hours), along with the Weekly Course Schedule (containing links to all readings), navigate to the [Course Schedule/Calendar](https://ucsb-pstat100.github.io/Pages/schedule.html) page
+
+
+-   For information on the Course Staff (including information about office hours beginning in week 2) navigate to the [Course Staff](https://ucsb-pstat100.github.io/Pages/staff.html) page
+
+
+</p>
+</div>
+
+
+
+The instructor would like to acknowledge Drs. Trevor Ruiz, Alexander Franks, and Laura Baracaldo for graciously providing material and support for this course.
